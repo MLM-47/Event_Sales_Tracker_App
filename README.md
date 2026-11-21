@@ -83,3 +83,14 @@ The app will automatically open in your default web browser at `http://localhost
 ## 📄 License
 
 This project is open-source and available for educational and personal business use.
+
+
+<<<<<<< HEAD
+Your local README content
+=======
+README content from GitHub
+>>>>>>> ...
+
+<<<<<<<
+=======
+>>>>>>>
